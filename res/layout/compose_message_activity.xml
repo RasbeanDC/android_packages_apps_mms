@@ -129,7 +129,7 @@
                 android:background="#ff000000" >
 
                 <EditText
-                    android:textColor="@color/text_hairline"
+                    android:textColor="@android:color/white"
                     android:id="@+id/embedded_text_editor"
                     android:layout_width="0dip"
                     android:layout_gravity="bottom"
